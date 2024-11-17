@@ -1,14 +1,14 @@
 /*
-Author:Finney Ndereba
+Author:JUDY WAIRIMU
 Date:4/9/2024
-Reg No:ED102/G/18034/23
+Reg No:ED102/G/21145/23
 */
 //preprocessor directive scanf(), printf()
 #include<stdio.h>
 int main(){
 //declraand initialisation of variables
 char a = 'h';
-char name[]={"Finney"};//%s
+char name[]={"Judy"};//%s
 int age =20;//%d
 float salary = 2000.50;//%f
 double budget =100000;//%1f
